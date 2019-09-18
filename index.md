@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Rolling Meadows Global Supply Chain Repository
 
 You can use the [editor on GitHub](https://github.com/Zoovie/SupplyChain/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
