@@ -1,6 +1,8 @@
 ## Welcome to the Rolling Meadows Global Supply Chain Repository
 
-You can use the [editor on GitHub](https://github.com/Zoovie/SupplyChain/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Rolling Meadows Global Supply Chain Repository. Within the repository, you will have the ability to access current documentation, helpful links, working procedures, and additional background and insight into the GSC reports used. 
+
+In the event you should come across any questions or would like to include a new section, please [Email the Admin](mailto: michael.jacobs2@ngc.com) with your comments/concerns.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
